@@ -1,5 +1,5 @@
 cs2lite-assets 1
-v 20261001.1657
+v 20261002.2248
 p pack/ar_baggage.pcxp|3664931|e4882646
 p pack/ar_shoots.pcxp|9483878|403b031d
 p pack/ar_shoots_night.pcxp|9425781|bfceb617
@@ -22,6 +22,7 @@ p pack/de_overpass.pcxp|9617283|2d4be631
 p pack/de_poseidon.pcxp|13506185|7b72549e
 p pack/de_train.pcxp|20436160|f845c541
 p pack/de_vertigo.pcxp|3470895|34b3f8ed
+p pack/pen.pcxp|9153968|3f64e2dc
 f fonts/04b03.ttf|19492|8276746d|pack/core.pcxp
 f fonts/CS2GunIcons.ttf|59028|4255e488|pack/core.pcxp
 f fonts/Inter-Bold.ttf|420428|ffc54469|pack/core.pcxp
@@ -218,6 +219,7 @@ f chams/tm_professional_vari.pcxm|674178|3dc89748
 f chams/tm_professional_varj.pcxh|6812|01d7ddf0|pack/core.pcxp
 f chams/tm_professional_varj.pcxm|817442|5722212d
 f maps/ar_baggage.pcxd|108|0af18520|pack/ar_baggage.pcxp
+f maps/ar_baggage.pcxh|90598|088e1c8d|pack/pen.pcxp
 f maps/ar_baggage.pcxw|2150130|0830ece1|pack/ar_baggage.pcxp
 f maps/ar_baggage_d0.pcxi|236964|765bc441|pack/ar_baggage.pcxp
 f maps/ar_baggage_d0.pcxv|143304|8f64d1ba|pack/ar_baggage.pcxp
@@ -228,6 +230,7 @@ f maps/ar_baggage_d2.pcxv|143580|5c7de8d3|pack/ar_baggage.pcxp
 f maps/ar_baggage_d3.pcxi|236964|c49caf03|pack/ar_baggage.pcxp
 f maps/ar_baggage_d3.pcxv|143580|3689d005|pack/ar_baggage.pcxp
 f maps/ar_shoots.pcxd|204|14b154aa|pack/ar_shoots.pcxp
+f maps/ar_shoots.pcxh|337187|23f90006|pack/pen.pcxp
 f maps/ar_shoots.pcxw|5990623|cd2cca67|pack/ar_shoots.pcxp
 f maps/ar_shoots_d0.pcxi|275148|5cf91db5|pack/ar_shoots.pcxp
 f maps/ar_shoots_d0.pcxv|151092|a99b5a1b|pack/ar_shoots.pcxp
@@ -246,6 +249,7 @@ f maps/ar_shoots_d6.pcxv|162720|e5aa0d2a|pack/ar_shoots.pcxp
 f maps/ar_shoots_d7.pcxi|275160|a36fb3b0|pack/ar_shoots.pcxp
 f maps/ar_shoots_d7.pcxv|160920|ff44c8f7|pack/ar_shoots.pcxp
 f maps/ar_shoots_night.pcxd|204|f48dc7fe|pack/ar_shoots_night.pcxp
+f maps/ar_shoots_night.pcxh|337673|8bbe9e28|pack/pen.pcxp
 f maps/ar_shoots_night.pcxw|5937578|4154d287|pack/ar_shoots_night.pcxp
 f maps/ar_shoots_night_d0.pcxi|274752|9fedb64f|pack/ar_shoots_night.pcxp
 f maps/ar_shoots_night_d0.pcxv|150888|b7a2744e|pack/ar_shoots_night.pcxp
@@ -264,12 +268,14 @@ f maps/ar_shoots_night_d6.pcxv|162804|9f9d9a40|pack/ar_shoots_night.pcxp
 f maps/ar_shoots_night_d7.pcxi|274752|a82f915a|pack/ar_shoots_night.pcxp
 f maps/ar_shoots_night_d7.pcxv|160776|77d28dae|pack/ar_shoots_night.pcxp
 f maps/cs_office.pcxd|60|35b474de|pack/cs_office.pcxp
+f maps/cs_office.pcxh|39819|914fd704|pack/pen.pcxp
 f maps/cs_office.pcxw|878661|5040ba53|pack/cs_office.pcxp
 f maps/cs_office_d0.pcxi|259776|36c93bc9|pack/cs_office.pcxp
 f maps/cs_office_d0.pcxv|162708|5ea7c800|pack/cs_office.pcxp
 f maps/cs_office_d1.pcxi|259788|cf2aa1be|pack/cs_office.pcxp
 f maps/cs_office_d1.pcxv|162936|00f147f9|pack/cs_office.pcxp
 f maps/cs_shelter.pcxd|396|3f8369e8|pack/cs_shelter.pcxp
+f maps/cs_shelter.pcxh|1233023|da7a702a|pack/pen.pcxp
 f maps/cs_shelter.pcxw|13303052|4d631fb3|pack/cs_shelter.pcxp
 f maps/cs_shelter_d0.pcxi|244356|a72949c0|pack/cs_shelter.pcxp
 f maps/cs_shelter_d0.pcxv|146508|034c502b|pack/cs_shelter.pcxp
@@ -304,6 +310,7 @@ f maps/cs_shelter_d8.pcxv|160836|ec0c65dc|pack/cs_shelter.pcxp
 f maps/cs_shelter_d9.pcxi|244368|a0ab0b52|pack/cs_shelter.pcxp
 f maps/cs_shelter_d9.pcxv|151920|3b7c07ce|pack/cs_shelter.pcxp
 f maps/de_ancient.pcxd|396|c1de16af|pack/de_ancient.pcxp
+f maps/de_ancient.pcxh|456275|a03a2a2a|pack/pen.pcxp
 f maps/de_ancient.pcxw|8241595|6c351a01|pack/de_ancient.pcxp
 f maps/de_ancient_d0.pcxi|203496|66ce291a|pack/de_ancient.pcxp
 f maps/de_ancient_d0.pcxv|105096|1e454fc1|pack/de_ancient.pcxp
@@ -338,6 +345,7 @@ f maps/de_ancient_d8.pcxv|112020|74140247|pack/de_ancient.pcxp
 f maps/de_ancient_d9.pcxi|203508|c346e338|pack/de_ancient.pcxp
 f maps/de_ancient_d9.pcxv|112044|3aa2c964|pack/de_ancient.pcxp
 f maps/de_ancient_night.pcxd|396|3eb1f6b7|pack/de_ancient_night.pcxp
+f maps/de_ancient_night.pcxh|459683|1b228f1c|pack/pen.pcxp
 f maps/de_ancient_night.pcxw|8304701|82da4d15|pack/de_ancient_night.pcxp
 f maps/de_ancient_night_d0.pcxi|204300|affd12c6|pack/de_ancient_night.pcxp
 f maps/de_ancient_night_d0.pcxv|105852|4c2af463|pack/de_ancient_night.pcxp
@@ -372,6 +380,7 @@ f maps/de_ancient_night_d8.pcxv|112848|1dba1579|pack/de_ancient_night.pcxp
 f maps/de_ancient_night_d9.pcxi|204312|cf26d186|pack/de_ancient_night.pcxp
 f maps/de_ancient_night_d9.pcxv|112536|11444636|pack/de_ancient_night.pcxp
 f maps/de_anubis.pcxd|396|13f43686|pack/de_anubis.pcxp
+f maps/de_anubis.pcxh|155395|f7fd2145|pack/pen.pcxp
 f maps/de_anubis.pcxw|4930540|b83b4e31|pack/de_anubis.pcxp
 f maps/de_anubis_d0.pcxi|203952|744a6b1e|pack/de_anubis.pcxp
 f maps/de_anubis_d0.pcxv|126780|0617ed80|pack/de_anubis.pcxp
@@ -406,6 +415,7 @@ f maps/de_anubis_d8.pcxv|127908|e47eb0d7|pack/de_anubis.pcxp
 f maps/de_anubis_d9.pcxi|203952|7a1e7523|pack/de_anubis.pcxp
 f maps/de_anubis_d9.pcxv|131268|403cb576|pack/de_anubis.pcxp
 f maps/de_boulder.pcxd|780|071f9c3b|pack/de_boulder.pcxp
+f maps/de_boulder.pcxh|1485412|cf5933a9|pack/pen.pcxp
 f maps/de_boulder.pcxw|23650237|789bece2|pack/de_boulder.pcxp
 f maps/de_boulder_d0.pcxi|232524|10f444ee|pack/de_boulder.pcxp
 f maps/de_boulder_d0.pcxv|142920|79cbece5|pack/de_boulder.pcxp
@@ -472,6 +482,7 @@ f maps/de_boulder_d8.pcxv|142332|5f6be1f8|pack/de_boulder.pcxp
 f maps/de_boulder_d9.pcxi|232536|32f978de|pack/de_boulder.pcxp
 f maps/de_boulder_d9.pcxv|144504|fc41c558|pack/de_boulder.pcxp
 f maps/de_cache.pcxd|396|520e746a|pack/de_cache.pcxp
+f maps/de_cache.pcxh|799333|47abee6b|pack/pen.pcxp
 f maps/de_cache.pcxw|11936163|a2366728|pack/de_cache.pcxp
 f maps/de_cache_d0.pcxi|238524|265c4db2|pack/de_cache.pcxp
 f maps/de_cache_d0.pcxv|160392|f5167065|pack/de_cache.pcxp
@@ -506,6 +517,7 @@ f maps/de_cache_d8.pcxv|146316|00193f78|pack/de_cache.pcxp
 f maps/de_cache_d9.pcxi|238536|a22ac12c|pack/de_cache.pcxp
 f maps/de_cache_d9.pcxv|146256|3fd68005|pack/de_cache.pcxp
 f maps/de_debris.pcxd|204|18f9c460|pack/de_debris.pcxp
+f maps/de_debris.pcxh|251337|29670af7|pack/pen.pcxp
 f maps/de_debris.pcxw|6511118|644c2a8e|pack/de_debris.pcxp
 f maps/de_debris_d0.pcxi|248400|43b27d2c|pack/de_debris.pcxp
 f maps/de_debris_d0.pcxv|160980|4fde73cb|pack/de_debris.pcxp
@@ -524,6 +536,7 @@ f maps/de_debris_d6.pcxv|166920|9f13b188|pack/de_debris.pcxp
 f maps/de_debris_d7.pcxi|248400|e7b92f71|pack/de_debris.pcxp
 f maps/de_debris_d7.pcxv|183240|31b55205|pack/de_debris.pcxp
 f maps/de_dust2.pcxd|204|9d6ce3d6|pack/de_dust2.pcxp
+f maps/de_dust2.pcxh|41189|fa3673c6|pack/pen.pcxp
 f maps/de_dust2.pcxw|1800826|e53996dc|pack/de_dust2.pcxp
 f maps/de_dust2_d0.pcxi|205188|72a7d542|pack/de_dust2.pcxp
 f maps/de_dust2_d0.pcxv|136116|0779eba8|pack/de_dust2.pcxp
@@ -542,6 +555,7 @@ f maps/de_dust2_d6.pcxv|125628|4059becc|pack/de_dust2.pcxp
 f maps/de_dust2_d7.pcxi|205200|1dc6799f|pack/de_dust2.pcxp
 f maps/de_dust2_d7.pcxv|126612|f080feaf|pack/de_dust2.pcxp
 f maps/de_eldorado.pcxd|396|4c1a1da5|pack/de_eldorado.pcxp
+f maps/de_eldorado.pcxh|279264|14593021|pack/pen.pcxp
 f maps/de_eldorado.pcxw|6606670|11ef796e|pack/de_eldorado.pcxp
 f maps/de_eldorado_d0.pcxi|221484|59e4a2e3|pack/de_eldorado.pcxp
 f maps/de_eldorado_d0.pcxv|128028|4c64fffe|pack/de_eldorado.pcxp
@@ -576,6 +590,7 @@ f maps/de_eldorado_d8.pcxv|125340|b80ae3e4|pack/de_eldorado.pcxp
 f maps/de_eldorado_d9.pcxi|221496|362e8770|pack/de_eldorado.pcxp
 f maps/de_eldorado_d9.pcxv|129276|a6b7271a|pack/de_eldorado.pcxp
 f maps/de_fachwerk.pcxd|396|b8929054|pack/de_fachwerk.pcxp
+f maps/de_fachwerk.pcxh|393001|ea0c98aa|pack/pen.pcxp
 f maps/de_fachwerk.pcxw|11684938|38b2244d|pack/de_fachwerk.pcxp
 f maps/de_fachwerk_d0.pcxi|265596|d2c2a9e7|pack/de_fachwerk.pcxp
 f maps/de_fachwerk_d0.pcxv|194820|308abbd2|pack/de_fachwerk.pcxp
@@ -610,6 +625,7 @@ f maps/de_fachwerk_d8.pcxv|214308|9e07c74a|pack/de_fachwerk.pcxp
 f maps/de_fachwerk_d9.pcxi|265596|9c05d051|pack/de_fachwerk.pcxp
 f maps/de_fachwerk_d9.pcxv|213588|e4e91e38|pack/de_fachwerk.pcxp
 f maps/de_inferno.pcxd|396|e1b7635b|pack/de_inferno.pcxp
+f maps/de_inferno.pcxh|949274|2c5e8057|pack/pen.pcxp
 f maps/de_inferno.pcxw|18602044|8b0c22cd|pack/de_inferno.pcxp
 f maps/de_inferno_d0.pcxi|322776|f4e6c788|pack/de_inferno.pcxp
 f maps/de_inferno_d0.pcxv|215556|431459ef|pack/de_inferno.pcxp
@@ -644,12 +660,14 @@ f maps/de_inferno_d8.pcxv|214296|b7bcc330|pack/de_inferno.pcxp
 f maps/de_inferno_d9.pcxi|322788|5b3b011a|pack/de_inferno.pcxp
 f maps/de_inferno_d9.pcxv|217800|d01a7441|pack/de_inferno.pcxp
 f maps/de_mirage.pcxd|60|ef58f607|pack/de_mirage.pcxp
+f maps/de_mirage.pcxh|44516|3f1b2ec1|pack/pen.pcxp
 f maps/de_mirage.pcxw|1117592|dcc58c91|pack/de_mirage.pcxp
 f maps/de_mirage_d0.pcxi|329124|49a9f9d8|pack/de_mirage.pcxp
 f maps/de_mirage_d0.pcxv|227040|43046186|pack/de_mirage.pcxp
 f maps/de_mirage_d1.pcxi|329136|84eed749|pack/de_mirage.pcxp
 f maps/de_mirage_d1.pcxv|221136|2079637b|pack/de_mirage.pcxp
 f maps/de_nuke.pcxd|108|a140e23f|pack/de_nuke.pcxp
+f maps/de_nuke.pcxh|53403|4a40933e|pack/pen.pcxp
 f maps/de_nuke.pcxw|1588653|e13c33eb|pack/de_nuke.pcxp
 f maps/de_nuke_d0.pcxi|250440|e910e99a|pack/de_nuke.pcxp
 f maps/de_nuke_d0.pcxv|145548|63b3ffbb|pack/de_nuke.pcxp
@@ -660,6 +678,7 @@ f maps/de_nuke_d2.pcxv|142068|dde7596c|pack/de_nuke.pcxp
 f maps/de_nuke_d3.pcxi|250452|853422fc|pack/de_nuke.pcxp
 f maps/de_nuke_d3.pcxv|141540|a11f64f2|pack/de_nuke.pcxp
 f maps/de_overpass.pcxd|204|a8888871|pack/de_overpass.pcxp
+f maps/de_overpass.pcxh|313240|2a8e7b9a|pack/pen.pcxp
 f maps/de_overpass.pcxw|6687188|ad733668|pack/de_overpass.pcxp
 f maps/de_overpass_d0.pcxi|214236|73ef4b79|pack/de_overpass.pcxp
 f maps/de_overpass_d0.pcxv|143460|4030583a|pack/de_overpass.pcxp
@@ -678,6 +697,7 @@ f maps/de_overpass_d6.pcxv|151788|f838e776|pack/de_overpass.pcxp
 f maps/de_overpass_d7.pcxi|214236|8798be05|pack/de_overpass.pcxp
 f maps/de_overpass_d7.pcxv|147492|701a3952|pack/de_overpass.pcxp
 f maps/de_poseidon.pcxd|396|06ecde4f|pack/de_poseidon.pcxp
+f maps/de_poseidon.pcxh|363131|2b6e3505|pack/pen.pcxp
 f maps/de_poseidon.pcxw|6104642|81ea6894|pack/de_poseidon.pcxp
 f maps/de_poseidon_d0.pcxi|295692|35c280eb|pack/de_poseidon.pcxp
 f maps/de_poseidon_d0.pcxv|175812|299789e8|pack/de_poseidon.pcxp
@@ -712,6 +732,7 @@ f maps/de_poseidon_d8.pcxv|164040|c5342888|pack/de_poseidon.pcxp
 f maps/de_poseidon_d9.pcxi|295704|2a623a94|pack/de_poseidon.pcxp
 f maps/de_poseidon_d9.pcxv|167352|5c6adb34|pack/de_poseidon.pcxp
 f maps/de_train.pcxd|396|79965ff2|pack/de_train.pcxp
+f maps/de_train.pcxh|1041906|cd9717b4|pack/pen.pcxp
 f maps/de_train.pcxw|13777482|370d1d3d|pack/de_train.pcxp
 f maps/de_train_d0.pcxi|253752|9d0e7564|pack/de_train.pcxp
 f maps/de_train_d0.pcxv|164844|9d744719|pack/de_train.pcxp
@@ -746,6 +767,7 @@ f maps/de_train_d8.pcxv|172368|90db1c50|pack/de_train.pcxp
 f maps/de_train_d9.pcxi|253752|9a4a7c63|pack/de_train.pcxp
 f maps/de_train_d9.pcxv|170100|d527d560|pack/de_train.pcxp
 f maps/de_vertigo.pcxd|108|44e0df99|pack/de_vertigo.pcxp
+f maps/de_vertigo.pcxh|28525|f7c266d3|pack/pen.pcxp
 f maps/de_vertigo.pcxw|1802062|e1f764c0|pack/de_vertigo.pcxp
 f maps/de_vertigo_d0.pcxi|245412|0407f542|pack/de_vertigo.pcxp
 f maps/de_vertigo_d0.pcxv|182424|521023a9|pack/de_vertigo.pcxp
@@ -755,4 +777,4 @@ f maps/de_vertigo_d2.pcxi|245412|9010102d|pack/de_vertigo.pcxp
 f maps/de_vertigo_d2.pcxv|161496|4184271a|pack/de_vertigo.pcxp
 f maps/de_vertigo_d3.pcxi|245424|cf58c6ac|pack/de_vertigo.pcxp
 f maps/de_vertigo_d3.pcxv|166536|93da8623|pack/de_vertigo.pcxp
-end 733
+end 754
